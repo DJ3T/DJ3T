@@ -4,7 +4,7 @@
 
 🚀 About Me
 
-	•	🏆 Concours Lépine Gold Medalist for my invention, the Autorideau.
+	•	🏆 Concours Lépine Jr Gold Medalist for my invention, the Autorideau.
 	•	👨‍💻 I’m currently learning Python programming, automation, and data science.
 	•	💡 I love working on innovative ideas, particularly in Python, and automation.
 
@@ -18,7 +18,7 @@
 
 ## Here are a few things I’m working on:
 
-	•	Autorideau: Automated curtain system - 🥇 Gold Medal Winner, Concours Lépine
+	•	Autorideau: Automated curtain system - 🥇 Gold Medal Winner, Concours Lépine Jr
 	•	Web Development: Simple websites and REST APIs with Django/Flask.
 
 😃 Thanks for stopping by!
