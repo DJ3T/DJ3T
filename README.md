@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello there 👋
+# I just love discovering new things!
 <!--
 **DJ3T/DJ3T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
