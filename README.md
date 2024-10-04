@@ -1,17 +1,25 @@
-## Hello there 👋
-### 🤠 I just love discovering new things!
-I also have no clue how to do a readme page but *shhhhhh* 🤫
-<!--
-**DJ3T/DJ3T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I’m Tim!
 
-Here are some ideas to get you started:
+## Welcome to my GitHub profile! I’m passionate about Python development 🐍, and I enjoy working on projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+	•	🏆 Concours Lépine Gold Medalist for my invention, the Autorideau.
+	•	👨‍💻 I’m currently learning Python programming, automation, and data science.
+	•	💡 I love working on innovative ideas, particularly in Python, and automation.
+
+🔧 Technologies & Tools
+
+	•	🐍 Python
+	•	🗂️ Databases: MySQL, SQLite
+	•	⚙️ Linux & macOS
+
+📚 Projects
+
+## Here are a few things I’m working on:
+
+	•	Autorideau: Automated curtain system - 🥇 Gold Medal Winner, Concours Lépine
+	•	Web Development: Simple websites and REST APIs with Django/Flask.
+
+😃 Thanks for stopping by!
+
