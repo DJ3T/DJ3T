@@ -1,5 +1,6 @@
 ## Hello there 👋
-# I just love discovering new things!
+### 🤠 I just love discovering new things!
+I also have no clue how to do a readme page but *shhhhhh* 🤫
 <!--
 **DJ3T/DJ3T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
