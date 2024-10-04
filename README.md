@@ -14,7 +14,6 @@
 	•	🗂️ Databases: MySQL, SQLite
 	•	⚙️ Linux & macOS
 
-📚 Projects
 
 ## Here are a few things I’m working on:
 
