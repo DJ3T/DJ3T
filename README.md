@@ -2,6 +2,7 @@
 
 ## Welcome to my GitHub profile! I’m passionate about Python development 🐍, and I enjoy working on projects that solve real-world problems.
 
+
 🚀 About Me
 
 	•	🏆 Concours Lépine Jr Gold Medalist for my invention, the Autorideau.
