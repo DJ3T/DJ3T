@@ -6,7 +6,7 @@
 🚀 About Me
 
 	•	🏆 Concours Lépine Jr Gold Medalist for my invention, the Autorideau.
-	•	👨‍💻 I’m currently learning Python programming, automation, and data science.
+	•	👨‍💻 I’m currently in engineering school, learning cybersecurity.
 	•	💡 I love working on innovative ideas, particularly in Python, and automation.
  	•	🇫🇷 Native speaker
   	•	🇺🇸 C1
