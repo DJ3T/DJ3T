@@ -17,12 +17,5 @@
  	•	🇫🇷 Native speaker
   	•	🇺🇸 C1
 
-
-
-## Here are a few things I’m working on:
-
-	•	Autorideau: Automated curtain system - 🥇 Gold Medal Winner, Concours Lépine Jr
-	•	Web Development: Simple websites and REST APIs with Django/Flask.
-
 😃 Thanks for stopping by!
 
