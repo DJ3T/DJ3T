@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Tim!
 
-## Welcome to my GitHub profile! I’m passionate about Python development 🐍, and I enjoy working on projects that solve real-world problems.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
 🚀 About Me
