@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=gold"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </div>
 
@@ -16,11 +16,6 @@
  	•	🇫🇷 Native speaker
   	•	🇺🇸 C1
 
-🔧 Technologies & Tools
-
-	•	🐍 Python
-	•	🗂️ Databases: MySQL, SQLite
-	•	⚙️ Linux & macOS
 
 
 ## Here are a few things I’m working on:
