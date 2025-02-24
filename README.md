@@ -11,9 +11,7 @@
         <img src="https://img.shields.io/badge/GitHub-6f1b99?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
 </p>
-
-<!-- 🛠️ Compétences -->
-### 🚀 Skills & Technologies  
+ 
 <p align="center">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
