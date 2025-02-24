@@ -2,9 +2,9 @@
 ![Tim Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Tim&fontSize=90&animation=fadeIn)
 
 <p align="center">
-    <!-- 🎧 Badge Discord -->
+    <!-- 🎧 Badge Discord (juste "Discord") -->
     <a target="_blank" href="https://discord.com/users/dj_3t">
-        <img src="https://img.shields.io/badge/%40dj_3t-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
     <!-- 🔗 Badge GitHub -->
     <a target="_blank" href="https://github.com/DJ3T">
