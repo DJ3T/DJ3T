@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
+![Tim Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Tim&fontSize=90&animation=fadeIn)
 
 # 💻 Tech Stack:
 
