@@ -1,6 +1,6 @@
-<!-- 🌊 Bannière animée -->
-![Tim Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Tim&fontSize=90&animation=fadeIn)
-
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Tim&fontSize=90&animation=fadeIn" alt="Tim Banner"/>
+</p>
 <p align="center">
     <!-- 🎧 Badge Discord (juste "Discord") -->
     <a target="_blank" href="https://discord.com/users/dj_3t">
