@@ -14,8 +14,6 @@
 
 # Hey there! 👋  
 I'm **Tim**, a Computer Science & Cybersecurity student with a passion for **ethical hacking**, **programming**, and **tech security**! 🚀🔐  
-Currently learning **penetration testing & cybersecurity fundamentals**.  
-
 ## ⚡ GitHub Stats  
 <p align="center">
     <img height="175" src="https://github-readme-stats.vercel.app/api?username=DJ3T&hide=stars&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true" alt="Tim GitHub Stats" />
