@@ -24,6 +24,6 @@
 I'm **Tim**, a Computer Science & Cybersecurity student with a passion for **ethical hacking**, **programming**, and **tech security**! 🚀🔐  
 ## ⚡ GitHub Stats
 <p align="center">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=DJ3T&hide=stars&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true" alt="Tim GitHub Stats" />
+<!--<img height="175" src="https://github-readme-stats.vercel.app/api?username=DJ3T&hide=stars&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true" alt="Tim GitHub Stats" />-->
     <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJ3T&exclude_repo=github-stats&theme=tokyonight&layout=compact" alt="Tim Most Used Languages" />
 </p>
